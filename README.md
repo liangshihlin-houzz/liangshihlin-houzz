@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Liang-Shih Lin but you can call me Liang.
+- 👀 I’m interested in automating as many things as I can get my hands on.
+- 🌱 I’m currently learning Flutter, Docker, Kubernetes.
